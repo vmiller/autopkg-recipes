@@ -1,3 +1,3 @@
 # vmiller-recipes
 
-A few recipes not covered by others.
+These recipes have moved to : https://github.com/autopkg/vmiller-recipes
